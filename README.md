@@ -60,6 +60,20 @@ This repository documents the design and hardware architecture of a **3-inch FPV
 - Blackbox-based analysis  
 
 ---
+## 📷 Media & Flight Footage
+
+Due to large file sizes, build images and flight DVR footage are hosted externally.
+
+### 🔹 Build Images & Photos
+Google Drive folder containing drone build images, close-ups, and setup visuals:  
+👉 https://drive.google.com/drive/folders/1w2jiOJnn6IRJDB_DMzEw-r3A4xE9LFUc?usp=sharing
+
+### 🔹 FPV DVR & Flight Footage
+Google Drive folder containing FPV DVR recordings and flight clips:  
+👉 https://drive.google.com/drive/folders/1V7FjueV_xF3NqaVAuiGgEUnsKyCWfeBH?usp=sharing
+
+These media files are intended for visual verification, flight analysis, and performance reference.
+
 
 ### 👤 Author
 **Aditya Shinde**  
